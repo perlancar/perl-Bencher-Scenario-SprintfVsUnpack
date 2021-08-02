@@ -2,3 +2,4 @@ Bencher-Scenario-SprintfVsUnpack-*
 .build
 *~
 nytprof*
+.DS_Store
